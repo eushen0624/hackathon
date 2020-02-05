@@ -109,7 +109,36 @@ function display_random_image() {
         src: "assets/images/hugot3.jpg",
         width: "400",
         height: "400"
-    }];
+    },
+    {
+        src: "assets/images/hugot4.jpg",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot5.png",
+        width: "400",
+        height: "400"
+    }, {
+        src: "assets/images/hugot6.jpg",
+        width: "400",
+        height: "400"
+    }, {
+        src: "assets/images/hugot7.png",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot8.jpg",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot9.png",
+        width: "400",
+        height: "400"
+    }
+    ];
     
     let preBuffer = [];
     for (let i = 0, j = theImages.length; i < j; i++) {
