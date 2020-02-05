@@ -137,6 +137,39 @@ function display_random_image() {
         src: "assets/images/hugot9.png",
         width: "400",
         height: "400"
+    },
+    {
+        src: "assets/images/hugot10.png",
+        width: "400",
+        height: "400"
+    }, {
+        src: "assets/images/hugot11.png",
+        width: "400",
+        height: "400"
+    }, {
+        src: "assets/images/hugot12.png",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot13.png",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot14.png",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot15.png",
+        width: "400",
+        height: "400"
+    },
+    {
+        src: "assets/images/hugot16.png",
+        width: "400",
+        height: "400"
     }
     ];
     
